@@ -18,7 +18,7 @@ Aplicativo web completo para criação de memes personalizados com upload de ima
 Escolha o campeão e skin desejados para utilizar de template
 ![image](https://github.com/user-attachments/assets/c59508eb-0988-4b6a-8baa-843f44b51dba)
 
-Recorte o rosto e escreva a legenda
+Faça upload de uma foto, recorte o rosto e escreva a legenda
 ![image](https://github.com/user-attachments/assets/7bf87045-e3ef-4c42-8d77-3c565ea43cb9)
 
 Defina posição, rotação e tamanho
