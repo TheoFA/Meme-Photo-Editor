@@ -1,4 +1,4 @@
-# Meme Generator - Projeto Profissional
+# Meme Generator
 
 ![image](https://github.com/user-attachments/assets/55017a41-cd3a-450e-b554-49d982667ae3)
 
